@@ -3,13 +3,18 @@ h1{color:grey;font-family:verdana}
 
 .maindiv {
 background-color: white;
+margin: auto;
+justify-content: space-between;
 width: 300px;
-padding: 20px;
-border-radius: 25px;
-align-items: center;}
+padding: 50px 50px 50px;
+border-radius: 50px;
+}
+
+
 
 .highlight {
     background-color: yellow;
   }
+
 
 
